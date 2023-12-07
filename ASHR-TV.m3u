@@ -8,529 +8,533 @@
 #EXTM3U url-tvg="https://github.com/AqFad2811/epg/raw/main/epg.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedstates.xml,https://www.bevy.be/bevyfiles/thailand.xml" m3uautoload=1 cache=500 deinterlace=1
 
 
-######################################### ASHR TV ######################################
+#########################################
+ASHR TV - Dilarang untuk jualbelikan
+#########################################
 
+####### SEMUA CHANNEL#######
 #EXTM3U
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png", SCTV SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png", SCTV SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png", SCTV HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png", SCTV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png", METRO TV SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png", METRO TV SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h211/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png", METRO TV HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png", METRO TV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png", CELESTIAL MOVIES SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h212/01.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png", CELESTIAL MOVIES HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/320px-Rock_Entertainment.png", ROCK ENTERTAINMENT SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h213/01.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/320px-Rock_Entertainment.png", ROCK ENTERTAINMENT HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://scontent-cgk1-2.xx.fbcdn.net/v/t1.6435-9/97800976_2492752957706744_1392089945350340608_n.png?_nc_cat=107&ccb=1-7&_nc_sid=7a1959&_nc_eui2=AeGlFcVGrng48E10_6Yo8w-WrlOkFcYFSNquU6QVxgVI2ivdbE3DOPtAxeQCPjHu9twjv0802bzrqInrpPBkBGLC&_nc_ohc=T9eduWStpRoAX_o41-R&_nc_ht=scontent-cgk1-2.xx&oh=00_AfAGV2mLPaNNhb6dF0Jdk23s5k3u0KjgYquLoOXX0ukoYQ&oe=6598EAD4", TVN MOVIES SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h214/01.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://scontent-cgk1-2.xx.fbcdn.net/v/t1.6435-9/97800976_2492752957706744_1392089945350340608_n.png?_nc_cat=107&ccb=1-7&_nc_sid=7a1959&_nc_eui2=AeGlFcVGrng48E10_6Yo8w-WrlOkFcYFSNquU6QVxgVI2ivdbE3DOPtAxeQCPjHu9twjv0802bzrqInrpPBkBGLC&_nc_ohc=T9eduWStpRoAX_o41-R&_nc_ht=scontent-cgk1-2.xx&oh=00_AfAGV2mLPaNNhb6dF0Jdk23s5k3u0KjgYquLoOXX0ukoYQ&oe=6598EAD4", TVN MOVIES HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/logo_tvn.png", TVN SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h215/01.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/logo_tvn.png", TVN HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/500px-NHK_World.svg.png", NHK WORLD SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h216/01.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/500px-NHK_World.svg.png", NHK WORLD HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
-
-CHANNEL PILIHAN-HD
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", ROCK ACTION SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h218/01.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", ROCK ACTION HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", K+ SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", K+ HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", KIX SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h220/01.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", KIX HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", BNTV SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", BNTV HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MAGNA SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h222/01.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MAGNA HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", NET SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", NET SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", NET HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", NET HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVONE SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVONE SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h224/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVONE HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVONE HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", RTV SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", RTV SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h225/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", RTV HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", RTV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h225/02.m3u8
 
-CHANNEL PILIHAN-HD
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", KARTUN SIS SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h226/01.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", KARTUN SIS HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h227/02.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CCTV 4 SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h228/01.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CCTV 4 HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h228/02.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", PHOENIX SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h232/01.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", PHOENIX HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h232/02.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", RODJA TV SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h233/01.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", RODJA TV HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", KOMPAS SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", KOMPAS SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", KOMPAS HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", KOMPAS HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", ANTV SD 
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="SEMUA CHANNEL",Trans TV (720p)
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="SEMUA CHANNEL",Trans7 (720p)
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8?checkedby:iptvcat.org
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/380px-GTV_%282017%29.svg.png" group-title="SEMUA CHANNEL",GTV HD 
+https://mantul.biz.id:443/ekos/748382/192.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/400px-INews.svg.png" group-title="SEMUA CHANNEL",INews
+https://mantul.biz.id:443/ekos/748382/193.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/400px-MNCTV_logo_2015.svg.png" group-title="SEMUA CHANNEL",MNC TV 
+https://mantul.biz.id:443/ekos/748382/191.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/400px-RCTI_logo_2015.svg.png" group-title="SEMUA CHANNEL",RCTI 
+https://mantul.biz.id:443/ekos/748382/190.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_of_CNN_Indonesia.svg/400px-Logo_of_CNN_Indonesia.svg.png" group-title="SEMUA CHANNEL",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", ANTV SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h235/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", ANTV HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", ANTV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TBN ASIA SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h236/01.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TBN ASIA HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVRI SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVRI SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h237/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVRI HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVRI HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVRI SPORT SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVRI SPORT SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h238/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVRI SPORT HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVRI SPORT HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CCM SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png", CELESTIAL MOVIES SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h212/01.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png", CELESTIAL MOVIES HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/320px-Rock_Entertainment.png", ROCK ENTERTAINMENT SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h213/01.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/320px-Rock_Entertainment.png", ROCK ENTERTAINMENT HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://scontent-cgk1-2.xx.fbcdn.net/v/t1.6435-9/97800976_2492752957706744_1392089945350340608_n.png?_nc_cat=107&ccb=1-7&_nc_sid=7a1959&_nc_eui2=AeGlFcVGrng48E10_6Yo8w-WrlOkFcYFSNquU6QVxgVI2ivdbE3DOPtAxeQCPjHu9twjv0802bzrqInrpPBkBGLC&_nc_ohc=T9eduWStpRoAX_o41-R&_nc_ht=scontent-cgk1-2.xx&oh=00_AfAGV2mLPaNNhb6dF0Jdk23s5k3u0KjgYquLoOXX0ukoYQ&oe=6598EAD4", TVN MOVIES SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h214/01.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://scontent-cgk1-2.xx.fbcdn.net/v/t1.6435-9/97800976_2492752957706744_1392089945350340608_n.png?_nc_cat=107&ccb=1-7&_nc_sid=7a1959&_nc_eui2=AeGlFcVGrng48E10_6Yo8w-WrlOkFcYFSNquU6QVxgVI2ivdbE3DOPtAxeQCPjHu9twjv0802bzrqInrpPBkBGLC&_nc_ohc=T9eduWStpRoAX_o41-R&_nc_ht=scontent-cgk1-2.xx&oh=00_AfAGV2mLPaNNhb6dF0Jdk23s5k3u0KjgYquLoOXX0ukoYQ&oe=6598EAD4", TVN MOVIES HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/logo_tvn.png", TVN SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h215/01.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/logo_tvn.png", TVN HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/500px-NHK_World.svg.png", NHK WORLD SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h216/01.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/500px-NHK_World.svg.png", NHK WORLD HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
+
+SEMUA CHANNEL-HD
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", ROCK ACTION SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h218/01.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", ROCK ACTION HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", K+ SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", K+ HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", KIX SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h220/01.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", KIX HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", BNTV SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", BNTV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MAGNA SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h222/01.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MAGNA HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
+
+SEMUA CHANNEL-HD
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", KARTUN SIS SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h226/01.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", KARTUN SIS HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h227/02.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CCTV 4 SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h228/01.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CCTV 4 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h228/02.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", PHOENIX SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h232/01.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", PHOENIX HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h232/02.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", RODJA TV SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h233/01.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", RODJA TV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TBN ASIA SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h236/01.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TBN ASIA HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
+
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CCM SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h239/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CCM HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CCM HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", Thrill SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", Thrill SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h240/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", Thrill HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", Thrill HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MEKKAH LIVE SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MEKKAH LIVE SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h241/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MEKKAH LIVE HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MEKKAH LIVE HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", M+ SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", M+ SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h242/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", M+ HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", M+ HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h242/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MADINAH LIVE SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MADINAH LIVE SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h243/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MADINAH LIVE HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MADINAH LIVE HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", RTP SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", RTP SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", RTP HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", RTP HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVE SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVE SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h245/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVE HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVE HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h245/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", ALJAZEERA ARAB SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", ALJAZEERA ARAB SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h246/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", ALJAZEERA ARAB HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", ALJAZEERA ARAB HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TV5 SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TV5 SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h247/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TV5 HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TV5 HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h247/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CGTN SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CGTN SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h248/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CGTN HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CGTN HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h248/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MCE SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MCE SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h208/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MCE HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MCE HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", HITS MOVIES SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", HITS MOVIES SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h206/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", HITS MOVIES HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", HITS MOVIES HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", HITS SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", HITS SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h205/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", HITS HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", HITS HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h205/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", FIGHT SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", FIGHT SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h204/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", FIGHT HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", FIGHT HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", M SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", M SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h203/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", M HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", M HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h203/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TV 5 Style SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TV 5 Style SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h209/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TV 5 Style HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TV 5 Style HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CINEMAWORLD SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CINEMAWORLD SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h202/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CINEMAWORLD HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CINEMAWORLD HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MY KIDZ HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MY KIDZ HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MY CINEMA HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MY CINEMA HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/h/h192/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DENS PLAY HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DENS PLAY HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/s/s101/live.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MY CINEMA ASIA HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MY CINEMA ASIA HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MY FAMILY CHANNEL HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MY FAMILY CHANNEL HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DAAI HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DAAI HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DENS SHOWBIZ HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DENS SHOWBIZ HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-krgroup1-swiftservesd-1.dens.tv/s/s35/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DENS FOOD CHANNEL HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DENS FOOD CHANNEL HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-krgroup1-swiftservesd-1.dens.tv/s/s38/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DEANS LEARNING HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DEANS LEARNING HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-krgroup1-swiftservesd-1.dens.tv/s/s36/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DENS LIVE EVENT HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DENS LIVE EVENT HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservesd-1.dens.tv/s/s100/live.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DENS Commerce HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DENS Commerce HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h126/live.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DENS Korean HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DENS Korean HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", BTV HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", BTV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DENS life Style HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DENS life Style HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservesd-1.dens.tv/s/s51/live.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", ELSHINTA HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", ELSHINTA HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/s/s12/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", JAKTV HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservesd-1.dens.tv/s/s123/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CREMA HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CREMA HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h228/index2.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", STINGRAY HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", STINGRAY HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", Deluxe Lounge HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", Deluxe Lounge HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h172/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", Dance TV HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", Dance TV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/s/s21/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", Motorvision HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", Motorvision HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h242/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MotoR Racing HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MotoR Racing HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h25/index2.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", HORIZON SPORT HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", HORIZON SPORT HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DW-TV HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DW-TV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/s/s25/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", W-SPORT HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", W-SPORT HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", France 24 HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", France 24 HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h226/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", FREEDOM HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", FREEDOM HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h101/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", WION HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", WION HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TRT WORLD HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TRT WORLD HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h156/index2.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", PMBTV HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", PMBTV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://pbmtvlive-19a58.kxcdn.com/pbmtv/live_abr/playlist.m3u8
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="CHANNEL PILIHAN",Balikapan TV (720p)
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", JAKTV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/s/s123/index.m3u8
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="SEMUA CHANNEL",Balikapan TV (720p)
 https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8?checkedby:iptvcat.org
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/fpFs6Ay.png" group-title="CHANNEL PILIHAN",Bandung TV
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/fpFs6Ay.png" group-title="SEMUA CHANNEL",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8?checkedby:iptvcat.org
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/tbtF40p.png" group-title="CHANNEL PILIHAN",Banten TV (720p) [Not 24/7]
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/tbtF40p.png" group-title="SEMUA CHANNEL",Banten TV (720p) [Not 24/7]
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8?checkedby:iptvcat.org
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/ZREy4zM.png" group-title="CHANNEL PILIHAN",Biznet Adventure
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/ZREy4zM.png" group-title="SEMUA CHANNEL",Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?checkedby:iptvcat.org
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="CHANNEL PILIHAN",Biznet Kids
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="SEMUA CHANNEL",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8?checkedby:iptvcat.org
 
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="CHANNEL PILIHAN",TVRI World (720p)
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="SEMUA CHANNEL",TVRI World (720p)
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.org
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/XqUfQKA.png" group-title="CHANNEL PILIHAN",Biznet Lifestyle
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/XqUfQKA.png" group-title="SEMUA CHANNEL",Biznet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8?checkedby:iptvcat.org
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="CHANNEL PILIHAN",Trans TV (720p)
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8?checkedby:iptvcat.org
-
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="CHANNEL PILIHAN",Trans7 (720p)
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8?checkedby:iptvcat.org
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png",HBO Signature* 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png",HBO Signature* 
 http://208.115.225.174:14160
 
-#EXTINF:-1  group-title="CHANNEL PILIHAN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO*
+#EXTINF:-1  group-title="SEMUA CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO*
 http://208.115.225.174:14136
 
-#EXTINF:-1  group-title="CHANNEL PILIHAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/640px-HBO_Xtreme.svg.png",HBO Extreme*
+#EXTINF:-1  group-title="SEMUA CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/640px-HBO_Xtreme.svg.png",HBO Extreme*
 http://208.115.225.174:14165
 
-#EXTINF:0  group-title="CHANNEL PILIHAN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO2*
+#EXTINF:0  group-title="SEMUA CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO2*
 http://208.115.225.174:14140
 
-#EXTINF:-1  group-title="CHANNEL PILIHAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/250px-HBO_Mundi.svg.png",HBO Mundi*
+#EXTINF:-1  group-title="SEMUA CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/250px-HBO_Mundi.svg.png",HBO Mundi*
 http://208.115.225.174:14148
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/380px-GTV_%282017%29.svg.png" group-title="CHANNEL PILIHAN",GTV HD 
-https://mantul.biz.id:443/ekos/748382/192.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/400px-INews.svg.png" group-title="CHANNEL PILIHAN",INews
-https://mantul.biz.id:443/ekos/748382/193.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/400px-MNCTV_logo_2015.svg.png" group-title="CHANNEL PILIHAN",MNC TV 
-https://mantul.biz.id:443/ekos/748382/191.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/400px-RCTI_logo_2015.svg.png" group-title="CHANNEL PILIHAN",RCTI 
-https://mantul.biz.id:443/ekos/748382/190.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_of_CNN_Indonesia.svg/400px-Logo_of_CNN_Indonesia.svg.png" group-title="CHANNEL PILIHAN",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MOJI SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MOJI SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h210/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MOJI HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MOJI HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
