@@ -15,11 +15,11 @@ ASHR TV - Dilarang untuk jualbelikan
 ####### SEMUA CHANNEL #######
 #EXTM3U
 
-#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", INDOSIAR SD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png", INDOSIAR SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 
-#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", INDOSIAR HD 
+#EXTINF:-1 group-title="SEMUA CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png", INDOSIAR HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
