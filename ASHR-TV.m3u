@@ -10,7 +10,7 @@
 
 #########################################
 ASHR TV - Dilarang untuk jualbelikan
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png", INDOSIAR SD 
+#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", ASHR TV WELCOME SCREEN 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVBUMPER.mp4
 
