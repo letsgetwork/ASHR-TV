@@ -1,4 +1,4 @@
-<h1><a href="y.gy/ASHRTV"><ASHR-TV</a></h1>
+<h1><a href="https://y.gy/ASHRTV">ASHR-TV</a></h1>
 
 
 Silahkan digunakan dengan bijak dan <b>jangan pernah diperjualbelikan</b>
