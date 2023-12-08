@@ -7,14 +7,10 @@
 #EXTM3U x-url-tvg="https://github.com/thefirefox12537/streams/blob/master/epg/local/guide.xml"
 #EXTM3U url-tvg="https://github.com/AqFad2811/epg/raw/main/epg.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedstates.xml,https://www.bevy.be/bevyfiles/thailand.xml" m3uautoload=1 cache=500 deinterlace=1
 
-
-#########################################
-ASHR TV - Dilarang untuk jualbelikan
 #EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", ASHR TV WELCOME SCREEN 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVBUMPER.mp4
 
-#########################################
 
 ####### ASHR TV - PILIHAN #######
 #EXTM3U
