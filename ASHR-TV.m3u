@@ -257,11 +257,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
 
 #EXTINF:-1 group-title="ASHR TV - PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", MEKKAH LIVE SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h241/01.m3u8
+https://is.gd/9zHxf3
+##http://op-group1-swiftservehd-1.dens.tv/h/h241/01.m3u8
 
 #EXTINF:-1 group-title="ASHR TV - PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", MEKKAH LIVE HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
+https://is.gd/9zHxf3
+##http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 
 #EXTINF:-1 group-title="ASHR TV - PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", M+ SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
