@@ -2235,12 +2235,12 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=108218_&exten
 
 #############   VOLI CHANNEL   ##############################
 
-#EXTINF:-1 tvg-id="Voli" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTTQBBZP-P6ql4TynbbONyKiQgzQHPKXOnZDvsE=s176-c-k-c0x00ffffff-no-rj" group-title="VOLI CHANNEL",LIGA VOLI CAMPURAN Budi Triawan
-https://iptvashrtv.asharirhmn.workers.dev/@buditriawan.m3u8
-
 #EXTINF:-1 tvg-id="Voli" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTzDN36DAZqsIc4DxVtXG7LqOTlgzCdMSJSvDTjAA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="VOLI CHANNEL",INIVOLI INDONESIA
 https://iptvashrtv.asharirhmn.workers.dev/@INIVOLI.m3u8
   #https://worker-bitter-bonus-4c80.asharirhmn.workers.dev/channel/UCFeEHyACDmr5krZb5pHZdmw.m3u8
+
+#EXTINF:-1 tvg-id="Voli" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTTQBBZP-P6ql4TynbbONyKiQgzQHPKXOnZDvsE=s176-c-k-c0x00ffffff-no-rj" group-title="VOLI CHANNEL",LIGA VOLI CAMPURAN Budi Triawan
+https://iptvashrtv.asharirhmn.workers.dev/@buditriawan.m3u8
 
 #EXTINF:-1 tvg-id="Voli" tvg-logo="https://yt3.googleusercontent.com/3N1SO1N-P9-iKGabayHBI-IifSWgJIUk2UF4HHGGQQyATQYzfi34X_xKbC_BdWy3CAuiCXeUFnU=s176-c-k-c0x00ffffff-no-rj" group-title="VOLI CHANNEL",VOLI VIETNAM
 https://iptvashrtv.asharirhmn.workers.dev/@bongchuyenvietnamonline.m3u8
