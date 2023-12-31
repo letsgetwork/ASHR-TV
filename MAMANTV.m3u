@@ -84,7 +84,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index
 https://mantul.biz.id:443/ekos/748382/192.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/800px-INews.svg.png" group-title="AYAH CHANNEL",INews
-https://iptv.asharirhmn.workers.dev/@OfficialiNews.m3u8
+https://ip.ashrtv.my.id/@OfficialiNews.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/400px-MNCTV_logo_2015.svg.png" group-title="AYAH CHANNEL",MNC TV 
 https://mantul.biz.id:443/ekos/748382/191.ts
@@ -257,7 +257,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
 
 #EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", MEKKAH LIVE HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://iptv.asharirhmn.workers.dev/@AlQuran-Official.m3u8
+https://ip.ashrtv.my.id/@AlQuran-Official.m3u8
   #https://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
   #http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 
@@ -530,13 +530,13 @@ http://208.115.225.174:14148
 https://shorturl.at/clIKP
 
 #EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://yt3.googleusercontent.com/wexZnc6227F6QBg5GLK1uZAUDwI_F6hfWpyN1328A2wId0yiV6S7wLU4Mw5539cOIrJ1aPYq9rE=s900-c-k-c0x00ffffff-no-rj",Liputan 6 News
-https://iptv.asharirhmn.workers.dev/@liputan6_news.m3u8
+https://ip.ashrtv.my.id/@liputan6_news.m3u8
 
 #EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://yt3.googleusercontent.com/rn32f43ecv5M1ysVa_Od59O9IFBvFgwH075M4EHISdz9NvjnToTLIC0bU-naavzKzCDe-gHH5g=s176-c-k-c0x00ffffff-no-rj",Diskominfo Berau
-https://iptv.asharirhmn.workers.dev/@diskominfoberau.m3u8
+https://ip.ashrtv.my.id/@diskominfoberau.m3u8
 
 #EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSiovzBkd-4hQev-RMpIc3csEPOLN8FyUTHlyG6veg=s88-c-k-c0x00ffffff-no-rj",WWE TV
-https://iptv.asharirhmn.workers.dev/@WWE.m3u8
+https://ip.ashrtv.my.id/@WWE.m3u8
 
 ############## FIFA ###############
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png" group-title="LIVE",LIVE 1
@@ -2228,20 +2228,20 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=108218_&exten
 #############   VOLI CHANNEL   ##############################
 
 #EXTINF:-1 tvg-id="Voli" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTzDN36DAZqsIc4DxVtXG7LqOTlgzCdMSJSvDTjAA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="VOLI CHANNEL",INIVOLI INDONESIA
-https://iptv.asharirhmn.workers.dev/@INIVOLI.m3u8
+https://ip.ashrtv.my.id/@INIVOLI.m3u8
   #https://worker-bitter-bonus-4c80.asharirhmn.workers.dev/channel/UCFeEHyACDmr5krZb5pHZdmw.m3u8
 
 #EXTINF:-1 tvg-id="Voli" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTTQBBZP-P6ql4TynbbONyKiQgzQHPKXOnZDvsE=s176-c-k-c0x00ffffff-no-rj" group-title="VOLI CHANNEL",LIGA VOLI CAMPURAN Budi Triawan
-https://iptv.asharirhmn.workers.dev/@buditriawan.m3u8
+https://ip.ashrtv.my.id/@buditriawan.m3u8
 
 #EXTINF:-1 tvg-id="Voli" tvg-logo="https://yt3.googleusercontent.com/3N1SO1N-P9-iKGabayHBI-IifSWgJIUk2UF4HHGGQQyATQYzfi34X_xKbC_BdWy3CAuiCXeUFnU=s176-c-k-c0x00ffffff-no-rj" group-title="VOLI CHANNEL",VOLI VIETNAM
-https://iptv.asharirhmn.workers.dev/@bongchuyenvietnamonline.m3u8
+https://ip.ashrtv.my.id/@bongchuyenvietnamonline.m3u8
 
 #EXTINF:-1 tvg-id="Voli" tvg-logo="https://yt3.googleusercontent.com/jLxBBAerHqBqVtnEddBYAb02EopKuDGC3WidlVA714cJtjG9ItFjOfgp630nIbF-4uBPhxOX1Q=s176-c-k-c0x00ffffff-no-rj" group-title="VOLI CHANNEL",VOLI EROPA European Volleyball
-https://iptv.asharirhmn.workers.dev/@CEVolleyball.m3u8
+https://ip.ashrtv.my.id/@CEVolleyball.m3u8
 
 #EXTINF:-1 tvg-logo="https://is.gd/jJQqbe" group-title="VOLI CHANNEL",TVF Volley Voli Turkey
-https://iptv.asharirhmn.workers.dev/@tvfvoleyboltv.m3u8
+https://ip.ashrtv.my.id/@tvfvoleyboltv.m3u8
 
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="VOLI CHANNEL",Sports TV Turkiye
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
