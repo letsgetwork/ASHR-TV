@@ -538,6 +538,30 @@ https://ip.ashrtv.my.id/@diskominfoberau.m3u8
 #EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSiovzBkd-4hQev-RMpIc3csEPOLN8FyUTHlyG6veg=s88-c-k-c0x00ffffff-no-rj",WWE TV
 https://ip.ashrtv.my.id/@WWE.m3u8
 
+#############   VOLI CHANNEL   ##############################
+
+#EXTINF:-1 tvg-id="Voli" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTzDN36DAZqsIc4DxVtXG7LqOTlgzCdMSJSvDTjAA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="VOLI CHANNEL",INIVOLI INDONESIA
+https://ip.ashrtv.my.id/@INIVOLI.m3u8
+  #https://worker-bitter-bonus-4c80.asharirhmn.workers.dev/channel/UCFeEHyACDmr5krZb5pHZdmw.m3u8
+
+#EXTINF:-1 tvg-id="Voli" tvg-logo="https://shorturl.at/blFIX" group-title="VOLI CHANNEL",LIGA VOLI CAMPURAN Budi Triawan
+https://ip.ashrtv.my.id/@buditriawan.m3u8
+
+#EXTINF:-1 tvg-id="Voli" tvg-logo="https://yt3.googleusercontent.com/3N1SO1N-P9-iKGabayHBI-IifSWgJIUk2UF4HHGGQQyATQYzfi34X_xKbC_BdWy3CAuiCXeUFnU=s176-c-k-c0x00ffffff-no-rj" group-title="VOLI CHANNEL",VOLI VIETNAM
+https://ip.ashrtv.my.id/@bongchuyenvietnamonline.m3u8
+
+#EXTINF:-1 tvg-id="Voli" tvg-logo="https://yt3.googleusercontent.com/jLxBBAerHqBqVtnEddBYAb02EopKuDGC3WidlVA714cJtjG9ItFjOfgp630nIbF-4uBPhxOX1Q=s176-c-k-c0x00ffffff-no-rj" group-title="VOLI CHANNEL",VOLI EROPA European Volleyball
+https://ip.ashrtv.my.id/@CEVolleyball.m3u8
+
+#EXTINF:-1 tvg-logo="https://is.gd/jJQqbe" group-title="VOLI CHANNEL",TVF Voli Turkey
+https://ip.ashrtv.my.id/@tvfvoleyboltv.m3u8
+
+#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="VOLI CHANNEL",Sports TV Turkiye
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1 group-title="VOLI CHANNEL" tvg-logo="https://shorturl.at/fFHS7",KBSN SPORT
+https://shorturl.at/pFL69
+
 ############## FIFA ###############
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png" group-title="LIVE",LIVE 1
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
@@ -2223,64 +2247,6 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=18127_&extens
 
 #EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", UFC CHANEL
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=108218_&extension=ts
-
-
-#############   VOLI CHANNEL   ##############################
-
-#EXTINF:-1 tvg-id="Voli" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTzDN36DAZqsIc4DxVtXG7LqOTlgzCdMSJSvDTjAA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="VOLI CHANNEL",INIVOLI INDONESIA
-https://ip.ashrtv.my.id/@INIVOLI.m3u8
-  #https://worker-bitter-bonus-4c80.asharirhmn.workers.dev/channel/UCFeEHyACDmr5krZb5pHZdmw.m3u8
-
-#EXTINF:-1 tvg-id="Voli" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTTQBBZP-P6ql4TynbbONyKiQgzQHPKXOnZDvsE=s176-c-k-c0x00ffffff-no-rj" group-title="VOLI CHANNEL",LIGA VOLI CAMPURAN Budi Triawan
-https://ip.ashrtv.my.id/@buditriawan.m3u8
-
-#EXTINF:-1 tvg-id="Voli" tvg-logo="https://yt3.googleusercontent.com/3N1SO1N-P9-iKGabayHBI-IifSWgJIUk2UF4HHGGQQyATQYzfi34X_xKbC_BdWy3CAuiCXeUFnU=s176-c-k-c0x00ffffff-no-rj" group-title="VOLI CHANNEL",VOLI VIETNAM
-https://ip.ashrtv.my.id/@bongchuyenvietnamonline.m3u8
-
-#EXTINF:-1 tvg-id="Voli" tvg-logo="https://yt3.googleusercontent.com/jLxBBAerHqBqVtnEddBYAb02EopKuDGC3WidlVA714cJtjG9ItFjOfgp630nIbF-4uBPhxOX1Q=s176-c-k-c0x00ffffff-no-rj" group-title="VOLI CHANNEL",VOLI EROPA European Volleyball
-https://ip.ashrtv.my.id/@CEVolleyball.m3u8
-
-#EXTINF:-1 tvg-logo="https://is.gd/jJQqbe" group-title="VOLI CHANNEL",TVF Volley Voli Turkey
-https://ip.ashrtv.my.id/@tvfvoleyboltv.m3u8
-
-#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="VOLI CHANNEL",Sports TV Turkiye
-https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-
-#EXTINF:-1 group-title="VOLI CHANNEL" tvg-logo="https://shorturl.at/fFHS7",KBSN SPORT
-https://shorturl.at/pFL69
-
-
-#############   VOD   ##############################
-####################################################
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png" group-title="VOD",ASHR TV
-https://github.com/letsgetwork/ASHR-TV/raw/main/assets/ASHRTVBUMPER.mp4
-
-#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Avatar 2
-
-#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Antman Quantumania
-
-#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Fast-X
-##https://github.com/Iqbalbala/VOD/blob/main/FastX.m3u8
-
-#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Sonic 2
-
-#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Black Adam
-
-#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Transformer Beats
-https://api.thomasandi.my.id/ssx/index.m3u8?id=fwijl1hpyfke
-##https://github.com/OngisMbois/VOD/raw/main/Transformerbeats.m3u8
-
-#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Shangchi
-
-#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Wakanda Forever
-
-#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Shazam 2
-
-###EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD"
-
-
-
 
 ####################################################################################################################################################################
 ####################################### ASTRO MALAYSIA ##########################################################################################################
