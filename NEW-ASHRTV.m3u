@@ -162,83 +162,83 @@ http://op-group1-swiftservehd-1.dens.tv/h/h218/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", K+ SD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", K+ SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", K+ HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", K+ HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", KIX SD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", KIX SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h220/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", KIX HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", KIX HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", BNTV SD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", BNTV SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", BNTV HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", BNTV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", MAGNA SD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", MAGNA SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h222/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", MAGNA HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", MAGNA HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", KARTUN SIS SD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", KARTUN SIS SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h226/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", KARTUN SIS HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", KARTUN SIS HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h227/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", CCTV 4 SD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", CCTV 4 SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h228/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", CCTV 4 HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", CCTV 4 HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h228/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", PHOENIX SD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", PHOENIX SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h232/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", PHOENIX HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", PHOENIX HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h232/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", RODJA TV SD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", RODJA TV SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h233/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", RODJA TV HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", RODJA TV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", TBN ASIA SD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", TBN ASIA SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h236/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", TBN ASIA HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", TBN ASIA HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", CCM SD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", CCM SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h239/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", CCM HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", CCM HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
 
@@ -250,238 +250,238 @@ http://op-group1-swiftservehd-1.dens.tv/h/h240/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", MEKKAH LIVE HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", MEKKAH LIVE HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://ip.ashrtv.my.id/@AlQuran-Official.m3u8
   #https://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
   #http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", M+ SD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", M+ SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h242/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", M+ HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", M+ HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h242/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", MADINAH LIVE SD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", MADINAH LIVE SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h243/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", MADINAH LIVE HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", MADINAH LIVE HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", RTP SD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", RTP SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", RTP HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", RTP HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", TVE SD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", TVE SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h245/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", TVE HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", TVE HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h245/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", ALJAZEERA 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", ALJAZEERA 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h143/S4/mnf.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", TV5 SD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", TV5 SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h247/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", TV5 HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", TV5 HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h247/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", CGTN SD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", CGTN SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h248/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", CGTN HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", CGTN HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h248/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", MCE SD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", MCE SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h208/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", MCE HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", MCE HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", HITS MOVIES SD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", HITS MOVIES SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h206/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", HITS MOVIES HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", HITS MOVIES HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", HITS SD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", HITS SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h205/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", HITS HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", HITS HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h205/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", FIGHT SD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", FIGHT SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h204/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", FIGHT HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", FIGHT HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", M SD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", M SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h203/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", M HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", M HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h203/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", TV 5 Style SD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", TV 5 Style SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h209/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", TV 5 Style HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", TV 5 Style HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", CINEMAWORLD SD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", CINEMAWORLD SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h202/01.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", CINEMAWORLD HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", CINEMAWORLD HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", MY KIDZ HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", MY KIDZ HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", MY CINEMA HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", MY CINEMA HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/h/h192/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", DENS PLAY HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", DENS PLAY HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/s/s101/live.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", MY CINEMA ASIA HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", MY CINEMA ASIA HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", MY FAMILY CHANNEL HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", MY FAMILY CHANNEL HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", DAAI HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", DAAI HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", DENS SHOWBIZ HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", DENS SHOWBIZ HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-krgroup1-swiftservesd-1.dens.tv/s/s35/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", DENS FOOD CHANNEL HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", DENS FOOD CHANNEL HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-krgroup1-swiftservesd-1.dens.tv/s/s38/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", DEANS LEARNING HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", DEANS LEARNING HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-krgroup1-swiftservesd-1.dens.tv/s/s36/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", DENS LIVE EVENT HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", DENS LIVE EVENT HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservesd-1.dens.tv/s/s100/live.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", DENS Commerce HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", DENS Commerce HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h126/live.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", DENS Korean HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", DENS Korean HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", BTV HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", BTV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", DENS life Style HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", DENS life Style HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservesd-1.dens.tv/s/s51/live.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", ELSHINTA HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", ELSHINTA HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/s/s12/index.m3u8
 
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", CREMA HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", CREMA HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h228/index2.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", STINGRAY HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", STINGRAY HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", Deluxe Lounge HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", Deluxe Lounge HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h172/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", Dance TV HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", Dance TV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/s/s21/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", Motorvision HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", Motorvision HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h242/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", MotoR Racing HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", MotoR Racing HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h25/index2.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", HORIZON SPORT HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", HORIZON SPORT HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", DW-TV HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", DW-TV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/s/s25/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", W-SPORT HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", W-SPORT HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", France 24 HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", France 24 HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h226/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", FREEDOM HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", FREEDOM HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h101/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", WION HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", WION HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", TRT WORLD HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", TRT WORLD HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h156/index2.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", PMBTV HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", PMBTV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://pbmtvlive-19a58.kxcdn.com/pbmtv/live_abr/playlist.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png", JAKTV HD 
+#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", JAKTV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/s/s123/index.m3u8
 
@@ -558,20 +558,20 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://shorturl.at/pFL69
 
 ############## FIFA ###############
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png" group-title="LIVE",LIVE 1
+#EXTINF:-1 tvg-logo="https://ashrtv.my.id/aset" group-title="LIVE",LIVE 1
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 ##https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png" group-title="LIVE",LIVE 2
+#EXTINF:-1 tvg-logo="https://ashrtv.my.id/aset" group-title="LIVE",LIVE 2
 https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png" group-title="LIVE",LIVE 3
+#EXTINF:-1 tvg-logo="https://ashrtv.my.id/aset" group-title="LIVE",LIVE 3
 https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png" group-title="LIVE",LIVE 4
+#EXTINF:-1 tvg-logo="https://ashrtv.my.id/aset" group-title="LIVE",LIVE 4
 https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png" group-title="LIVE",LIVE 5
+#EXTINF:-1 tvg-logo="https://ashrtv.my.id/aset" group-title="LIVE",LIVE 5
 https://s.id/SuperSportFUBOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png" group-title="LIVE",LIVE 6
+#EXTINF:-1 tvg-logo="https://ashrtv.my.id/aset" group-title="LIVE",LIVE 6
 https://webudit.hlsjs.ru/lb/premium123/index.m3u8
 ###################################################################
 ####################### TV Nasional ###############################
@@ -676,7 +676,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png" group-title="Movies",ASHR TV
+#EXTINF:-1 tvg-logo="https://ashrtv.my.id/aset" group-title="Movies",ASHR TV
 https://github.com/letsgetwork/ASHR-TV/raw/main/assets/ASHRTVBUMPER.mp4
 #EXTINF:-1 group-title="Movies",ANIMAX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch52%29/index.m3u8
@@ -899,7 +899,7 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=317784&extens
 ################    FIRSTMEDIA   ##########################
 ###########################################################
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png" group-title="FIRSTMEDIA",ASHR TV
+#EXTINF:-1 tvg-logo="https://ashrtv.my.id/aset" group-title="FIRSTMEDIA",ASHR TV
 https://github.com/letsgetwork/ASHR-TV/raw/main/assets/ASHRTVBUMPER.mp4
 
 #EXTINF:-1 group-title="FIRSTMEDIA",TRANSTV HD
@@ -1281,7 +1281,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png" group-title="NASIONAL UMUM",ASHR TV
+#EXTINF:-1 tvg-logo="https://ashrtv.my.id/aset" group-title="NASIONAL UMUM",ASHR TV
 https://github.com/letsgetwork/ASHR-TV/raw/main/assets/ASHRTVBUMPER.mp4
 
 
@@ -1813,7 +1813,7 @@ http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2186989
 ###########################################################################################################################################################
 #######################  Sports  #########################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png" group-title="Sports",ASHR TV
+#EXTINF:-1 tvg-logo="https://ashrtv.my.id/aset" group-title="Sports",ASHR TV
 https://github.com/letsgetwork/ASHR-TV/raw/main/assets/ASHRTVBUMPER.mp4
 #EXTINF:-1 group-title="Sports",BEIN SPORT 1 PREMIUM 🇶🇦
 http://vzagut73.megogo.xyz/iptv/5WS4WSUFCCHGQF/6131/index.m3u8
@@ -1917,7 +1917,7 @@ https://tv.movielab.pro/942/video.m3u8
 ###########################################################################################################
 ##################  LIFESTYLE  ##################################################################
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png" group-title="LIFESTYLE",ASHR TV
+#EXTINF:-1 tvg-logo="https://ashrtv.my.id/aset" group-title="LIFESTYLE",ASHR TV
 https://github.com/letsgetwork/ASHR-TV/raw/main/assets/ASHRTVBUMPER.mp4
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest/scale-to-width-down/250?cb=20230215050548" group-title="LIFESTYLE",Citra Entertainment
@@ -1962,7 +1962,7 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.
 ######################################################################################################################################################
 #############################  KNOWLEDGE  #####################################################################################################
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png" group-title="KNOWLEDGE",ASHR TV
+#EXTINF:-1 tvg-logo="https://ashrtv.my.id/aset" group-title="KNOWLEDGE",ASHR TV
 https://github.com/letsgetwork/ASHR-TV/raw/main/assets/ASHRTVBUMPER.mp4
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-id="nationalgeographicindonesia.id" tvg-logo="https://i.imgur.com/OZ8lCeO.png",National Geographic 
 https://shorturl.at/cpO02
@@ -2026,7 +2026,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 ##########################################################################################################################################################
 ########################  RELIGI ########################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png" group-title="Religi",ASHR TV
+#EXTINF:-1 tvg-logo="https://ashrtv.my.id/aset" group-title="Religi",ASHR TV
 https://github.com/letsgetwork/ASHR-TV/raw/main/assets/ASHRTVBUMPER.mp4
 
 #EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png" group-title="Religi",MAKKAH TV
@@ -2084,7 +2084,7 @@ https://live.ishiacloud.com/haditv.co.uk/haditv2.m3u8
 ############################################################################################################################################################
 ############################ ANAK-ANAK #############################################################################################################
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png" group-title="Anak-Anak",ASHR TV
+#EXTINF:-1 tvg-logo="https://ashrtv.my.id/aset" group-title="Anak-Anak",ASHR TV
 https://github.com/letsgetwork/ASHR-TV/raw/main/assets/ASHRTVBUMPER.mp4
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="Anak-Anak",Animax
@@ -2246,7 +2246,7 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=108218_&exten
 ####################################################################################################################################################################
 ####################################### ASTRO MALAYSIA ##########################################################################################################
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/letsgetwork/ASHR-TV/main/assets/ASHRTVLOGO.png" group-title="SPORT PREMIUM",ASHR TV
+#EXTINF:-1 tvg-logo="https://ashrtv.my.id/aset" group-title="SPORT PREMIUM",ASHR TV
 https://github.com/letsgetwork/ASHR-TV/raw/main/assets/ASHRTVBUMPER.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT PREMIUM", ORANGE Sport 1
