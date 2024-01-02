@@ -563,6 +563,20 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 group-title="VOLI CHANNEL" tvg-logo="https://shorturl.at/fFHS7",KBSN SPORT
 https://shorturl.at/pFL69
 
+
+############## TELENOVELA ###############
+#EXTINF:-1 tvg-id="Telenovela" tvg-logo="https://shorturl.at/mLZ79" group-title="TELENOVELA", Telenovela 1
+https://ip.ashrtv.my.id/@lanoviadeestambulespanol.m3u8
+#EXTINF:-1 tvg-id="Telenovela" tvg-logo="https://shorturl.at/mLZ79" group-title="TELENOVELA", Telenovela 2
+https://ip.ashrtv.my.id/@pajarosonador-erkencikus.m3u8
+#EXTINF:-1 tvg-id="Telenovela" tvg-logo="https://shorturl.at/mLZ79" group-title="TELENOVELA", Telenovela 3
+https://ip.ashrtv.my.id/@TeAlquiloMiAmor.m3u8
+#EXTINF:-1 tvg-id="Telenovela" tvg-logo="https://shorturl.at/mLZ79" group-title="TELENOVELA", Telenovela 4
+https://ip.ashrtv.my.id/@kurtseyitsura.m3u8
+#EXTINF:-1 tvg-id="Telenovela" tvg-logo="https://shorturl.at/mLZ79" group-title="TELENOVELA", Telenovela 5
+https://ip.ashrtv.my.id/@LaSenoraFaziletySusHijas.m3u8
+
+
 ############## FIFA ###############
 #EXTINF:-1 tvg-logo="https://ashrtv.my.id/aset" group-title="LIVE",LIVE 1
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
