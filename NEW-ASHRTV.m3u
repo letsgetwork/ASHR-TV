@@ -152,7 +152,7 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 
 #EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSyNIh7o1kQ_FK0aQPrmUujqAiB_H-XON220hpoqQ=s88-c-k-c0x00ffffff-no-rj", CNA 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://ip.ashrtv.my.id/@channelnewsasia.m3u8
+https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_1/chunklist.m3u8
 
 #EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://yt3.googleusercontent.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ=s176-c-k-c0x00ffffff-no-rj", ABC News 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
