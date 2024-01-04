@@ -527,7 +527,8 @@ http://208.115.225.174:14140
 http://208.115.225.174:14148
 
 #EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://shorturl.at/dIQUW",beIN Sport HABER
-https://shorturl.at/clIKP
+https://ashrtv.my.id/@beinsportsturkiye.m3u8
+  #https://shorturl.at/clIKP
 
 #EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://yt3.googleusercontent.com/wexZnc6227F6QBg5GLK1uZAUDwI_F6hfWpyN1328A2wId0yiV6S7wLU4Mw5539cOIrJ1aPYq9rE=s900-c-k-c0x00ffffff-no-rj",Liputan 6 News
 https://ip.ashrtv.my.id/@liputan6_news.m3u8
