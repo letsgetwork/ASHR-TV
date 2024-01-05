@@ -321,19 +321,19 @@ http://op-group1-swiftservehd-1.dens.tv/h/h208/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
 
-#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://ashrtv.my.id/aset", HITS MOVIES SD 
+#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png", HITS MOVIES SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h206/01.m3u8
 
-#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://ashrtv.my.id/aset", HITS MOVIES HD 
+#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png, HITS MOVIES HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
 
-#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://ashrtv.my.id/aset", HITS SD 
+#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png", HITS SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h205/01.m3u8
 
-#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://ashrtv.my.id/aset", HITS HD 
+#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png, HITS HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h205/02.m3u8
 
