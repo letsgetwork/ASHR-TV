@@ -1,4 +1,4 @@
-#direct-link: https://shorturl.at/biyAD / https://ashrtv.my.id/ayah
+#direct-link: https://shorturl.at/biyAD
 
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" 
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml" 
@@ -557,6 +557,9 @@ https://ip.ashrtv.my.id/@WWE.m3u8
 #EXTINF:-1 tvg-id="Voli" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTzDN36DAZqsIc4DxVtXG7LqOTlgzCdMSJSvDTjAA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="VOLI CHANNEL",INIVOLI INDONESIA
 https://ip.ashrtv.my.id/@INIVOLI.m3u8
   #https://worker-bitter-bonus-4c80.asharirhmn.workers.dev/channel/UCFeEHyACDmr5krZb5pHZdmw.m3u8
+
+#EXTINF:-1 tvg-id="Voli" tvg-logo="https://yt3.googleusercontent.com/_7nFvj8mSjdVZxhiSqoePLxketAzzor_alOTAm4DCFz-Kf3VFkhjqRt2kh85OrvlQHvaEIZZ=s176-c-k-c0x00ffffff-no-rj" group-title="VOLI CHANNEL",SPORTLIGHT
+https://ip.ashrtv.my.id/@Olahraga-populer.m3u8
 
 #EXTINF:-1 tvg-id="Voli" tvg-logo="https://shorturl.at/blFIX" group-title="VOLI CHANNEL",LIGA VOLI CAMPURAN Budi Triawan
 https://ip.ashrtv.my.id/@buditriawan.m3u8
