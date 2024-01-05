@@ -526,19 +526,6 @@ http://208.115.225.174:14140
 #EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/250px-HBO_Mundi.svg.png",HBO Mundi*
 http://208.115.225.174:14148
 
-#EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://ashrtv.my.id/aset",CLOSED-CAPTIONS="cc2",HBO 2 East
-https://e1.thetvapp.to/hls/HBO2East.m3u8?token=kUgJqfLSzPGToQOt3nlQuA&expires=1704356439
-
-#EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://ashrtv.my.id/aset",CLOSED-CAPTIONS="cc",HBO East
-https://e5.thetvapp.to/hls/HBOEast.m3u8?token=KJZ4K9p10mG3XvV7zdHudQ&expires=1704356500
-
-#EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://ashrtv.my.id/aset",CLOSED-CAPTIONS="cc2",HBO East Family 
-https://e5.thetvapp.to/hls/HBOFamilyEast.m3u8?token=kV4CcOFu_jfADS-AfnMaAQ&expires=1704356567
-
-#EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://ashrtv.my.id/aset",CLOSED-CAPTIONS="cc2",HBO East Signature
-https://e5.thetvapp.to/hls/HBOSignatureEast.m3u8?token=yGitNWD2j3wlvBXV6D2HJQ&expires=1704356644
-
-
 #EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://shorturl.at/dIQUW",beIN Sport HABER
 https://ip.ashrtv.my.id/@beinsportsturkiye.m3u8
   #https://shorturl.at/clIKP
