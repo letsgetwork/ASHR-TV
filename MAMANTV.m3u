@@ -563,9 +563,6 @@ https://ip.ashrtv.my.id/@tvfvoleyboltv.m3u8
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="VOLI CHANNEL",Sports TV Turkiye
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
-#EXTINF:-1 group-title="VOLI CHANNEL" tvg-logo="https://shorturl.at/fFHS7",KBSN SPORT
-https://shorturl.at/pFL69
-
 ############## TELENOVELA ###############
 #EXTINF:-1 tvg-id="Telenovela" tvg-logo="https://shorturl.at/mLZ79" group-title="TELENOVELA", Telenovela 1
 https://ip.ashrtv.my.id/@lanoviadeestambulespanol.m3u8
