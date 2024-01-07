@@ -272,14 +272,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h242/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h242/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", MADINAH LIVE SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h243/01.m3u8
-
-#EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", MADINAH LIVE HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
-
 #EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://ashrtv.my.id/aset", RTP SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
