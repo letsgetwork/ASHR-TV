@@ -40,7 +40,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h224/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
-#EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRat3T6TuBUiIsWMbnBd2ZUA6w6lYxg_bKbKFh4=s176-c-k-c0x00ffffff-no-rj",Narasi TV
+#EXTINF:-1  group-title="CHANNEL PILIHAN" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRat3T6TuBUiIsWMbnBd2ZUA6w6lYxg_bKbKFh4=s176-c-k-c0x00ffffff-no-rj",Narasi TV
 https://ip.ashrtv.my.id/@najwashihab.m3u8
 
 #EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/400px-NET._sky_blue.svg.png", NET SD 
@@ -538,9 +538,6 @@ https://ip.ashrtv.my.id/@liputan6_news.m3u8
 
 #EXTINF:-1  group-title="CHANNEL PILIHAN" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSSsFBZJ6ngRAhS87y-O9WERBqNFRt8K54uuFB3=s88-c-k-c0x00ffffff-no-rj",Adi Hidayat TV
 https://ip.ashrtv.my.id/@AdiHidayatOfficial.m3u8
-
-#EXTINF:-1  group-title="CHANNEL PILIHAN" tvg-logo="https://yt3.googleusercontent.com/rn32f43ecv5M1ysVa_Od59O9IFBvFgwH075M4EHISdz9NvjnToTLIC0bU-naavzKzCDe-gHH5g=s176-c-k-c0x00ffffff-no-rj",Diskominfo Berau
-https://ip.ashrtv.my.id/@diskominfoberau.m3u8
 
 #EXTINF:-1  group-title="CHANNEL PILIHAN" tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZSiovzBkd-4hQev-RMpIc3csEPOLN8FyUTHlyG6veg=s88-c-k-c0x00ffffff-no-rj",WWE TV
 https://ip.ashrtv.my.id/@WWE.m3u8
