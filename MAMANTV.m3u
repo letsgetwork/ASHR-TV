@@ -45,13 +45,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
 
 #EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2880px-TvOne_2023.svg.png", TVONE SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://ip.ashrtv.my.id/@tvOneNews.m3u8
-##http://op-group1-swiftservehd-1.dens.tv/h/h224/01.m3u8
+##https://ip.ashrtv.my.id/@tvOneNews.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h224/01.m3u8
 
 #EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2880px-TvOne_2023.svg.png", TVONE HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://ip.ashrtv.my.id/@tvOneNews.m3u8
-##http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+##https://ip.ashrtv.my.id/@tvOneNews.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
 
 #EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/400px-NET._sky_blue.svg.png", NET SD 
