@@ -1,4 +1,4 @@
-#direct-link: https://shorturl.at/biyAD
+#direct-link: https://ashrtv.my.id/ayah
 
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" 
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml" 
@@ -571,16 +571,20 @@ https://ip.ashrtv.my.id/@tvfvoleyboltv.m3u8
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="VOLI CHANNEL",Sports TV Turkiye
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
-############## TELENOVELA ###############
-#EXTINF:-1 tvg-id="Telenovela" tvg-logo="https://shorturl.at/mLZ79" group-title="TELENOVELA", Telenovela 1
+############## SINEMA TURKI ###############
+#EXTINF:-1 tvg-id="Sinema Turki" tvg-logo="https://t.ly/ueg4w" group-title="SINEMA TURKI", Sinema Turki 1
 https://ip.ashrtv.my.id/@lanoviadeestambulespanol.m3u8
-#EXTINF:-1 tvg-id="Telenovela" tvg-logo="https://shorturl.at/mLZ79" group-title="TELENOVELA", Telenovela 2
+
+#EXTINF:-1 tvg-id="Sinema Turki" tvg-logo="https://t.ly/ueg4w" group-title="SINEMA TURKI", Sinema Turki 2
 https://ip.ashrtv.my.id/@pajarosonador-erkencikus.m3u8
-#EXTINF:-1 tvg-id="Telenovela" tvg-logo="https://shorturl.at/mLZ79" group-title="TELENOVELA", Telenovela 3
+
+#EXTINF:-1 tvg-id="Sinema Turki" tvg-logo="https://t.ly/ueg4w" group-title="SINEMA TURKI", Sinema Turki 3
 https://ip.ashrtv.my.id/@TeAlquiloMiAmor.m3u8
-#EXTINF:-1 tvg-id="Telenovela" tvg-logo="https://shorturl.at/mLZ79" group-title="TELENOVELA", Telenovela 4
+
+#EXTINF:-1 tvg-id="Sinema Turki" tvg-logo="https://t.ly/ueg4w" group-title="SINEMA TURKI", Sinema Turki 4
 https://ip.ashrtv.my.id/@kurtseyitsura.m3u8
-#EXTINF:-1 tvg-id="Telenovela" tvg-logo="https://shorturl.at/mLZ79" group-title="TELENOVELA", Telenovela 5
+
+#EXTINF:-1 tvg-id="Sinema Turki" tvg-logo="https://t.ly/ueg4w" group-title="SINEMA TURKI", Sinema Turki 5
 https://ip.ashrtv.my.id/@LaSenoraFaziletySusHijas.m3u8
 
 ############## FIFA ###############
