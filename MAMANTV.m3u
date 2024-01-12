@@ -101,7 +101,7 @@ https://mantul.biz.id:443/ekos/748382/191.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/400px-RCTI_logo_2015.svg.png" group-title="AYAH CHANNEL",RCTI 
 https://mantul.biz.id:443/ekos/748382/190.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_of_CNN_Indonesia.svg/400px-Logo_of_CNN_Indonesia.svg.png" group-title="AYAH CHANNEL",CNN Indonesia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/600px-CNN_Indonesia_logo.svg.png" group-title="AYAH CHANNEL",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/400px-Antv_logo.svg.png", ANTV SD 
