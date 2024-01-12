@@ -260,7 +260,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h240/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
 
-#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://ashrtv.my.id/aset", MEKKAH LIVE HD 
+#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSN3LaDRoN-NJrgDkbUf31zduOb2xF5JQxkXnkE4g=s100-c-k-c0x00ffffff-no-rj", MEKKAH LIVE HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://ip.ashrtv.my.id/@AlQuran-Official.m3u8
   #https://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
@@ -274,13 +274,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h242/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h242/02.m3u8
 
-#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://ashrtv.my.id/aset", MADINAH LIVE SD 
+#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQATKpiQUj8iykX0A80rh4hIe4xhOqKTtOqO-peqw=s100-c-k-c0x00ffffff-no-rj", MADINAH LIVE HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h243/01.m3u8
-
-#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://ashrtv.my.id/aset", MADINAH LIVE HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
+https://ip.ashrtv.my.id/@SaudiSunnahTv.m3u8
+#http://op-group1-swiftservehd-1.dens.tv/h/h243/01.m3u8
 
 #EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://ashrtv.my.id/aset", RTP SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -298,9 +295,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h245/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h245/02.m3u8
 
-#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://ashrtv.my.id/aset", ALJAZEERA 
+#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://yt3.googleusercontent.com/YKrh5sIYpesEIHbjfgqwFjFx3ZgIjM_zak2z0LO8QENSgrmgKBes1m65POj9jkmzm0qoKwgl=s100-c-k-c0x00ffffff-no-rj", ALJAZEERA 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h143/S4/mnf.m3u8
+https://ip.ashrtv.my.id/@aljazeeraenglish.m3u8
 
 #EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://ashrtv.my.id/aset", TV5 SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
