@@ -569,154 +569,168 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://shorturl.at/pFL69
 
 
-############## beIN CHANNEL ###############
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",BEIN AFCON 1 4K
+############## Sport Pilihan ###############
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",BEIN AFCON 1 4K
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1149
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",BEIN AFCON 2 FHD
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",BEIN AFCON 2 FHD
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1150
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",BEIN AFCON 1 FHD
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",BEIN AFCON 1 FHD
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1151
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",BEIN AFCON 2 HD
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",BEIN AFCON 2 HD
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1152
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",BEIN AFCON 1 HD
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",BEIN AFCON 1 HD
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1153
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",BEIN AFCON 2 SD
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",BEIN AFCON 2 SD
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1154
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",BEIN AFCON 1 SD
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",BEIN AFCON 1 SD
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1155
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",Bein Sport Asian Cup 1
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",Bein Sport Asian Cup 1
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1144
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",Bein Sport Asian Cup 2
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",Bein Sport Asian Cup 2
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1145
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",BEIN AFCON 2 4K
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",BEIN AFCON 2 4K
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1148
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",beIN 1 Premium FHD
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",beIN 1 Premium FHD
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/405
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",beIN 3 Premium FHD
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",beIN 3 Premium FHD
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/407
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",beIN 4 FHD
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",beIN 4 FHD
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/408
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",beIN 5 HD
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",beIN 5 HD
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/409
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",beIN 2 Premium HD
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",beIN 2 Premium HD
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/406
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",beIN 6 HD
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",beIN 6 HD
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/410
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",beIN Sports 1
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",beIN Sports 1
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/877
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",beIN Sports 2
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",beIN Sports 2
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/878
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",beIN Sports 3
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",beIN Sports 3
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/879
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",BeIN Sports 7 HD
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",BeIN Sports 7 HD
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/884
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",beIN 4 HD
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",beIN 4 HD
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/732
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",SSC-EXTRA 1 HD
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",SSC-EXTRA 1 HD
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/882
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",SSC-EXTRA 2 HD
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",SSC-EXTRA 2 HD
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/883
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",AD | SPORT PREMIUM 1 HD
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",AD | SPORT PREMIUM 1 HD
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/880
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",AD | SPORT PREMIUM 2 HD
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",AD | SPORT PREMIUM 2 HD
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/881
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",beIN Sports 1 VIP 
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",beIN Sports 1 VIP 
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/886
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",beIN Sports 2 VIP 
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",beIN Sports 2 VIP 
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/887
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",beIN Sports 3 VIP 
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",beIN Sports 3 VIP 
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/888
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",beIN Sports 4 VIP 
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",beIN Sports 4 VIP 
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/889
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",Bein Sport 5 VIP
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",Bein Sport 5 VIP
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/890
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",Bein Sport 6
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",Bein Sport 6
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/891
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",BEIN SPORTS 7
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",BEIN SPORTS 7
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/892
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",BEIN SPORTS 8 VIP 
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",BEIN SPORTS 8 VIP 
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/893
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",beIN SPORTS XTRA 1
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",beIN SPORTS XTRA 1
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/894
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",beIN SPORTS XTRA 2
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",beIN SPORTS XTRA 2
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/895
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",Bahrain Sports 1
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",Bahrain Sports 1
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/525
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",Bahrain Sports 2
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",Bahrain Sports 2
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/526
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",Dubai Sports 1
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",Dubai Sports 1
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/922
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",Dubai Sports 1
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",Dubai Sports 1
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/923
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",Dubai Sports 2
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",Dubai Sports 2
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/924
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",Dubai Sports 3
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",Dubai Sports 3
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/925
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",SSC 1 HD
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",SSC 1 HD
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/733
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",SSC 2 HD
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",SSC 2 HD
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/734
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",SSC 3 HD
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",SSC 3 HD
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/735
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",SSC 5 HD
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",SSC 5 HD
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/737
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",[SPO**] * Bein Sport AFC
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",[SPO**] * Bein Sport AFC
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1140
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",[SPO**] * Bein Sport AFC 1
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",[SPO**] * Bein Sport AFC 1
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1141
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",[SPO**] * Bein Sport AFC 2
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",[SPO**] * Bein Sport AFC 2
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1142
 
-#EXTINF:-1  group-title="beIN Channel" tvg-logo="https://ashrtv.my.id/aset",[SPO**] * Bein Sport AFC 3
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",[SPO**] * Bein Sport AFC 3
 http://173.212.193.243:8080/mo3ad6vHB34/mo3adv60B/1143
 
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",AR: SSC SPORTS 1
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54301
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",AR: SSC SPORTS 2
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54302
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",AR: SSC SPORTS 3
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54303
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",AR: SSC SPORTS 4
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54304
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",AR: SSC SPORTS 5
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54305
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",AR: SSC SPORTS EXTRA 1
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54896
+#EXTINF:-1  group-title="Sport Pilihan" tvg-logo="https://ashrtv.my.id/aset",AR: SSC SPORTS EXTRA 2
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54897
 
 ############## FIFA ###############
 #EXTINF:-1 tvg-logo="https://ashrtv.my.id/aset" group-title="LIVE",LIVE 1
