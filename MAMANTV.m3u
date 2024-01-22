@@ -99,7 +99,7 @@ https://ip.ashrtv.my.id/@OfficialiNews.m3u8
 https://mantul.biz.id:443/ekos/748382/191.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/400px-RCTI_logo_2015.svg.png" group-title="AYAH CHANNEL",RCTI 
-https://mantul.biz.id:443/ekos/748382/190.ts
+https://github.com/mimipipi22/lalajo/raw/main/rcti.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.13.6" group-title="AYAH CHANNEL",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
