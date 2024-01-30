@@ -911,7 +911,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 
 #EXTINF:-1 tvg-logo="https://ashrtv.my.id/aset" group-title="Movies",ASHR TV
-https://github.com/letsgetwork/ASHR-TV/raw/main/assets/ASHRTVBUMPER.mp4
+https://ashrtv.my.id/bumper
 #EXTINF:-1 group-title="Movies",ANIMAX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch52%29/index.m3u8
 #EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Movies",HBO
@@ -1134,7 +1134,7 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=317784&extens
 ###########################################################
 
 #EXTINF:-1 tvg-logo="https://ashrtv.my.id/aset" group-title="FIRSTMEDIA",ASHR TV
-https://github.com/letsgetwork/ASHR-TV/raw/main/assets/ASHRTVBUMPER.mp4
+https://ashrtv.my.id/bumper
 
 #EXTINF:-1 group-title="FIRSTMEDIA",TRANSTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
@@ -1516,7 +1516,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://ashrtv.my.id/aset" group-title="NASIONAL UMUM",ASHR TV
-https://github.com/letsgetwork/ASHR-TV/raw/main/assets/ASHRTVBUMPER.mp4
+https://ashrtv.my.id/bumper
 
 
 NASIONAL-UMUM
@@ -2054,7 +2054,7 @@ http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2186989
 #######################  Sports  #########################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://ashrtv.my.id/aset" group-title="Sports",ASHR TV
-https://github.com/letsgetwork/ASHR-TV/raw/main/assets/ASHRTVBUMPER.mp4
+https://ashrtv.my.id/bumper
 #EXTINF:-1 group-title="Sports",BEIN SPORT 1 PREMIUM 🇶🇦
 http://vzagut73.megogo.xyz/iptv/5WS4WSUFCCHGQF/6131/index.m3u8
 #EXTINF:-1 group-title="Sports",BEIN SPORT 3 PREMIUM 🇶🇦
@@ -2158,7 +2158,7 @@ https://tv.movielab.pro/942/video.m3u8
 ##################  LIFESTYLE  ##################################################################
 
 #EXTINF:-1 tvg-logo="https://ashrtv.my.id/aset" group-title="LIFESTYLE",ASHR TV
-https://github.com/letsgetwork/ASHR-TV/raw/main/assets/ASHRTVBUMPER.mp4
+https://ashrtv.my.id/bumper
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AIf8zZTtj1EUfyRC8jC1o0kpWgzJlF2hsbwO826CFtv7pw=s88-c-k-c0x00ffffff-no-rj" group-title="LIFESTYLE",Variety
 https://ip.ashrtv.my.id/@variety.m3u8
@@ -2206,7 +2206,7 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.
 #############################  KNOWLEDGE  #####################################################################################################
 
 #EXTINF:-1 tvg-logo="https://ashrtv.my.id/aset" group-title="KNOWLEDGE",ASHR TV
-https://github.com/letsgetwork/ASHR-TV/raw/main/assets/ASHRTVBUMPER.mp4
+https://ashrtv.my.id/bumper
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-id="nationalgeographicindonesia.id" tvg-logo="https://i.imgur.com/OZ8lCeO.png",National Geographic 
 https://shorturl.at/cpO02
 #http://watchalien.ddns.net:2095/live/247Vod/6sBfMnV9Nkxz/43654.m3u8
@@ -2270,7 +2270,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 ########################  RELIGI ########################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://ashrtv.my.id/aset" group-title="Religi",ASHR TV
-https://github.com/letsgetwork/ASHR-TV/raw/main/assets/ASHRTVBUMPER.mp4
+https://ashrtv.my.id/bumper
 
 #EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png" group-title="Religi",MAKKAH TV
 https://is.gd/9zHxf3
@@ -2328,7 +2328,7 @@ https://live.ishiacloud.com/haditv.co.uk/haditv2.m3u8
 ############################ ANAK-ANAK #############################################################################################################
 
 #EXTINF:-1 tvg-logo="https://ashrtv.my.id/aset" group-title="Anak-Anak",ASHR TV
-https://github.com/letsgetwork/ASHR-TV/raw/main/assets/ASHRTVBUMPER.mp4
+https://ashrtv.my.id/bumper
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="Anak-Anak",Animax
 http://xtv.ooo:8080/88876776555/87677666654/350890
@@ -2490,7 +2490,7 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=108218_&exten
 ####################################### ASTRO MALAYSIA ##########################################################################################################
 
 #EXTINF:-1 tvg-logo="https://ashrtv.my.id/aset" group-title="SPORT PREMIUM",ASHR TV
-https://github.com/letsgetwork/ASHR-TV/raw/main/assets/ASHRTVBUMPER.mp4
+https://ashrtv.my.id/bumper
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT PREMIUM", ORANGE Sport 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38422_&extension=ts
