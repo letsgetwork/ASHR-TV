@@ -69,12 +69,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 #EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/2880px-Rajawali_Televisi.svg.png", RTV SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
-  #http://op-group1-swiftservehd-1.dens.tv/h/h225/01.m3u8
+#http://op-group1-swiftservehd-1.dens.tv/h/h225/01.m3u8
 
 #EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/2880px-Rajawali_Televisi.svg.png", RTV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8 
-  #http://op-group1-swiftservehd-1.dens.tv/h/h225/02.m3u8
+#http://op-group1-swiftservehd-1.dens.tv/h/h225/02.m3u8
 
 #EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/2880px-KOMPAS_TV_%282017%29.svg.png", KOMPAS SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -86,10 +86,12 @@ https://ip.ashrtv.my.id/@kompastv.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
 #EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="AYAH CHANNEL",Trans TV HD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1862199480_b744100_sleng.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
 
 #EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="AYAH CHANNEL",Trans7 HD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w736805598_b744100_sleng.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/380px-GTV_%282017%29.svg.png" group-title="AYAH CHANNEL",GTV HD 
 https://mantul.biz.id:443/ekos/748382/192.ts
