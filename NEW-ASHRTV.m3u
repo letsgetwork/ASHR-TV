@@ -58,11 +58,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 
 #EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/2880px-Rajawali_Televisi.svg.png", RTV SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h225/01.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
+  #http://op-group1-swiftservehd-1.dens.tv/h/h225/01.m3u8
 
 #EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/2880px-Rajawali_Televisi.svg.png", RTV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h225/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8 
+  #http://op-group1-swiftservehd-1.dens.tv/h/h225/02.m3u8
 
 #EXTINF:-1 group-title="CHANNEL PILIHAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/2880px-KOMPAS_TV_%282017%29.svg.png", KOMPAS SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
