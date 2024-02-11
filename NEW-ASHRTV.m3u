@@ -542,6 +542,9 @@ https://ip.ashrtv.my.id/@Olympics.m3u8
 #EXTINF:-1  group-title="CHANNEL PILIHAN" tvg-logo="https://yt3.ggpht.com/HZ_noBZdkxvG11FgOoSo8SUbhjAqlKBegw6nKnGOWTQf6EUQ3BMEPQQUK_MguEeYAvdYbfFH=s88-c-k-c0x00ffffff-no-rj",Dzikir TV
 https://ip.ashrtv.my.id/@LafadzDoa.m3u8
 
+#EXTINF:-1  group-title="CHANNEL PILIHAN" tvg-logo="https://yt3.googleusercontent.com/7vjFSZRETqb6BD1khuEBpVLQ9V1sh6yeA3GgS_MrTpfx9whSbh-7AJ9JpnIOT6HYjiEdowtTpA=s176-c-k-c0x00ffffff-no-rj",Surah Zikir TV
+https://ip.ashrtv.my.id/@zikir-channel.m3u8
+
 #############   VOLI CHANNEL   ##############################
 
 #EXTINF:-1 tvg-id="Voli" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTzDN36DAZqsIc4DxVtXG7LqOTlgzCdMSJSvDTjAA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="VOLI CHANNEL",INIVOLI INDONESIA
