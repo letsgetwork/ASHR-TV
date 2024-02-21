@@ -934,18 +934,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 https://ashrtv.my.id/bumper
 #EXTINF:-1 group-title="Movies",ANIMAX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch52%29/index.m3u8
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Movies",HBO
-https://nonton.site:8443/ekos/7483/26595
-http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/197972
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Movies",HBO Hits
-https://nonton.site:8443/ekos/7483/26596
-http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/196480
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Movies",HBO Family
-https://nonton.site:8443/ekos/7483/26598
-http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/197055
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Movies",HBO Signature
-https://nonton.site:8443/ekos/7483/26597
-http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/221948
+
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Movies",Cinemax
 https://nonton.site:8443/ekos/7483/2156
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/197964
