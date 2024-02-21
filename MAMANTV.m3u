@@ -172,6 +172,67 @@ http://op-group1-swiftservehd-1.dens.tv/h/h218/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
 
+#### MOVIES PILIHAN TERBAIK ####
+#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png",HBO Signature 
+http://177.128.113.8/play/a0ag
+#http://208.115.225.174:14160
+
+#EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO
+http://177.128.113.8/play/a08w
+#http://208.115.225.174:14136
+
+#EXTINF:0  group-title="AYAH CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO2
+http://177.128.113.8/play/a092
+#http://208.115.225.174:14140
+
+#EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO POP
+http://177.128.113.8/play/a07h
+
+#EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO Family
+http://177.128.113.8/play/a0ad
+
+#EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO Plus
+http://177.128.113.8/play/a0af
+
+#EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/640px-HBO_Xtreme.svg.png",HBO Extreme
+http://177.128.113.8/play/a0ae
+#http://208.115.225.174:14165
+
+#EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/250px-HBO_Mundi.svg.png",HBO Mundi
+http://208.115.225.174:14148
+#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png",beIN Movies Premiere 1 
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/132303
+#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png",beIN Movies  Action 2
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/132304
+#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png",beIN Movies 4
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/132306
+#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png",beIN Movies Drama 3 
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/132305
+#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png",BeIn Movies Turk 
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107304
+#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png",BeIn Box Office 1 
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107309
+#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png",BeIn Box Office 2 
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107310
+#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png",BeIn Box Office 3 
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107311
+#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png",BeIn Series Comedy 
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107308
+#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png",BeIn Movies Stars 
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107303
+#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png",BeIn Movies Premiere 
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107302
+#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png",BeIn Movies Action 
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107301
+#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png",beIN Series 2
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/132315
+#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png",BeIN Series Drama 
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107305
+#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png",BeIn Series Vice 
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107306
+#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png",BeIn Series Sci-Fi 
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107307
+
 #EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://ashrtv.my.id/aset", K+ SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
@@ -512,37 +573,6 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvc
 
 #EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/XqUfQKA.png" group-title="AYAH CHANNEL",Biznet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8?checkedby:iptvcat.org
-
-
-#### HBO ####
-#EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png",HBO Signature 
-http://177.128.113.8/play/a0ag
-#http://208.115.225.174:14160
-
-#EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO
-http://177.128.113.8/play/a08w
-#http://208.115.225.174:14136
-
-#EXTINF:0  group-title="AYAH CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO2
-http://177.128.113.8/play/a092
-#http://208.115.225.174:14140
-
-#EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO POP
-http://177.128.113.8/play/a07h
-
-#EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO Family
-http://177.128.113.8/play/a0ad
-
-#EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO Plus
-http://177.128.113.8/play/a0af
-
-#EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/640px-HBO_Xtreme.svg.png",HBO Extreme
-http://177.128.113.8/play/a0ae
-#http://208.115.225.174:14165
-
-#EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/250px-HBO_Mundi.svg.png",HBO Mundi
-http://208.115.225.174:14148
-
 
 
 #EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://shorturl.at/dIQUW",beIN Sport HABER
