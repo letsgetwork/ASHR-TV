@@ -170,6 +170,16 @@ http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/70694.ts
 #http://177.128.113.8/play/a0ag
 #http://208.115.225.174:14160
 
+#EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/70695.ts
+#http://177.128.113.8/play/a0af
+
+#EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/640px-HBO_Xtreme.svg.png",HBO Extreme
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://177.128.113.8/play/a0ae
+#http://208.115.225.174:14165
+
 #EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://177.128.113.8/play/a08w
@@ -193,16 +203,6 @@ http://177.128.113.8/play/a07h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/70693.ts
 #http://177.128.113.8/play/a0ad
-
-#EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO Plus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/70695.ts
-#http://177.128.113.8/play/a0af
-
-#EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/640px-HBO_Xtreme.svg.png",HBO Extreme
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://177.128.113.8/play/a0ae
-#http://208.115.225.174:14165
 
 #EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/250px-HBO_Mundi.svg.png",HBO Mundi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1051,17 +1051,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch52%29/index.
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Movies",Cinemax
 https://nonton.site:8443/ekos/7483/2156
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/197964
-
-#EXTINF:-1 group-title="Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/565affd407eda3b8d7f7055d62a8461f.png",HBO Signature* 
-http://208.115.225.174:14160
-#EXTINF:-1  group-title="Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3df19bd34cea691ef713fa7c91186231.png",HBO*
-http://208.115.225.174:14136
-#EXTINF:-1  group-title="Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/ac32c2f03f910fd6359c90e0436cebef.png",HBO Extreme*
-http://208.115.225.174:14165
-#EXTINF:0  group-title="Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/04924eab6449cf5f9481477a02538529.png",HBO2*
-http://208.115.225.174:14140
-#EXTINF:-1  group-title="Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/da07317e9ea0404617a799765f151c31.png",HBO Mundi*
-http://208.115.225.174:14148
 
 #EXTINF:-1 group-title="Movies",TVN MOVIES
 https://op-group2-swiftservehd-1.dens.tv/h/h21/01.m3u8
