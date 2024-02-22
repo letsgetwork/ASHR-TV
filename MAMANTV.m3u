@@ -166,7 +166,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
 #### MOVIES PILIHAN TERBAIK ####
 #EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png",HBO Signature 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://177.128.113.8/play/a0ag
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/70694.ts
+#http://177.128.113.8/play/a0ag
 #http://208.115.225.174:14160
 
 #EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO
@@ -176,8 +177,13 @@ http://177.128.113.8/play/a08w
 
 #EXTINF:0  group-title="AYAH CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://177.128.113.8/play/a092
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/70691.ts
+#http://177.128.113.8/play/a092
 #http://208.115.225.174:14140
+
+#EXTINF:0  group-title="AYAH CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/70692.ts
 
 #EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO POP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -185,11 +191,13 @@ http://177.128.113.8/play/a07h
 
 #EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://177.128.113.8/play/a0ad
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/70693.ts
+#http://177.128.113.8/play/a0ad
 
 #EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://177.128.113.8/play/a0af
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/70695.ts
+#http://177.128.113.8/play/a0af
 
 #EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/640px-HBO_Xtreme.svg.png",HBO Extreme
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
