@@ -170,19 +170,21 @@ http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/70694.ts
 #http://177.128.113.8/play/a0ag
 #http://208.115.225.174:14160
 
-#EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO Plus
+#EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/70695.ts
 #http://177.128.113.8/play/a0af
 
 #EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/640px-HBO_Xtreme.svg.png",HBO Extreme
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://177.128.113.8/play/a0ae
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/70697.ts
+#http://177.128.113.8/play/a0ae
 #http://208.115.225.174:14165
 
 #EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://177.128.113.8/play/a08w
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/70696.ts
+#http://177.128.113.8/play/a08w
 #http://208.115.225.174:14136
 
 #EXTINF:0  group-title="AYAH CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO2
@@ -195,7 +197,7 @@ http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/70691.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/70692.ts
 
-#EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO POP
+#EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/2560px-HBO_Pop.svg.png",HBO POP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://177.128.113.8/play/a07h
 
@@ -203,10 +205,6 @@ http://177.128.113.8/play/a07h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/70693.ts
 #http://177.128.113.8/play/a0ad
-
-#EXTINF:-1  group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/250px-HBO_Mundi.svg.png",HBO Mundi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://208.115.225.174:14148
 
 #EXTINF:-1 group-title="AYAH CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png",beIN Movies Premiere 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
