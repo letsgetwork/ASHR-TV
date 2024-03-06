@@ -270,31 +270,31 @@ http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107306
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107307
 
-#EXTINF:-1 tvg-id="RakutenTVActionMovies.es" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="AYAH CHANNEL",Rakuten Action Movies 1
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es" tvg-logo="https://t.ly/fzRKO" group-title="AYAH CHANNEL",Rakuten Action Movies 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RakutenTVActionMovies.it" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="AYAH CHANNEL",Rakuten Action Movies 2
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.it" tvg-logo="https://t.ly/fzRKO" group-title="AYAH CHANNEL",Rakuten Action Movies 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://rakuten-actionmovies-6-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RakutenTVActionMovies.de" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="AYAH CHANNEL",Rakuten Action Movies Germany (720p)
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.de" tvg-logo="https://t.ly/fzRKO" group-title="AYAH CHANNEL",Rakuten Action Movies Germany (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RakutenTVActionMovies.uk" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="AYAH CHANNEL",Rakuten Action Movies UK (720p)
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.uk" tvg-logo="https://t.ly/fzRKO" group-title="AYAH CHANNEL",Rakuten Action Movies UK (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RakutenTVActionMovies.at" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="AYAH CHANNEL",Rakuten TV Action Movies Austria (720p)
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.at" tvg-logo="https://t.ly/fzRKO" group-title="AYAH CHANNEL",Rakuten TV Action Movies Austria (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://0f846627524f4dd2995e93581379db82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenActionMovies-1/
 
-#EXTINF:-1 tvg-id="RakutenTVActionMovies.fr" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="AYAH CHANNEL",Rakuten TV Films Action (720p)
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.fr" tvg-logo="https://t.ly/fzRKO" group-title="AYAH CHANNEL",Rakuten TV Films Action (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RakutenTVActionMovies.fi" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="AYAH CHANNEL",Rakuten TV Toiminta
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.fi" tvg-logo="https://t.ly/fzRKO" group-title="AYAH CHANNEL",Rakuten TV Toiminta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://rakuten-action-12-eu.rakuten.wurl.tv/playlist.m3u8
 
